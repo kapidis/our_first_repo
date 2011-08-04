@@ -1,0 +1,16 @@
+JP needs all attendees to be ready to go Monday morning. 
+
+I strongly recommend remoting into  your desktops or bringing your laptops to the course. You don’t have a proper .NET development machine then you should not be taking this course. Those of you that had to give up your .NET dev machines for a unix box can borrow a laptop from me. 
+
+The following must be done before the course:
+•	Sign up for a free account on github.com : https://github.com/signup/free
+•	Install and configure git on windows so they can read and write using their github account. This video will help:
+o	http://vimeo.com/18981346  
+•	Visual Studio 2010 Professional (or higher), I use the pro edition
+
+We will need to be able to have ssh access to github.com so that authentication can occur correctly, could you make sure we are not going to run into firewall issues?
+
+The following list is recommended (but not required) software that they could also install:
+•	ReSharper 6 or 5.1
+•	TestDriven .Net
+•	AutoHotKey
