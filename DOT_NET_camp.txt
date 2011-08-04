@@ -1,3 +1,5 @@
+Instructions
+--------------
 JP needs all attendees to be ready to go Monday morning. 
 
 I strongly recommend remoting into  your desktops or bringing your laptops to the course. You don’t have a proper .NET development machine then you should not be taking this course. Those of you that had to give up your .NET dev machines for a unix box can borrow a laptop from me. 
